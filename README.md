@@ -8,6 +8,9 @@
 [![npm](https://img.shields.io/npm/v/brawlstats?color=crimson&logo=npm&style=flat-square)](https://www.npmjs.com/package/brawlstats)
 </div>
 
+## Archived
+This repo has been moved to [Monorepo](https://github.com/SpecteraLabs/npm-packages/tree/main/packages/brawlstats)
+
 ## Description
 An advanced API wrapper for the Brawl Stars API.
 
